@@ -42,7 +42,7 @@ import ffmpeg
 OWNER = int(os.environ.get("OWNER",6414266397))
 try: 
     ADMINS=[6414266397] 
-    for x in (os.environ.get("ADMINS", "7958597957").split()):  
+    for x in (os.environ.get("ADMINS", "6414266397").split()):  
         ADMINS.append(int(x)) 
 except ValueError: 
         raise Exception("Your Admins list does not contain valid integers.") 
