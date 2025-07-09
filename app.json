@@ -13,31 +13,31 @@
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-            "value": "23000618",
+            "value": "27775431",
             "required": true
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-            "value": "da88b4f9c15b2860271e086444346a93",
+            "value": "b70bb1d45a1d05236671d4cc615e40f9",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-            "value": "7554739682:AAFTz3i-007gIOzeOQV6z5NvQBH0b9NxskY",
+            "value": "",
             "required": true
         },
         "token_cp":{
             "description": "𝘌𝘯𝘵𝘦𝘳 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴𝘱𝘭𝘶𝘴 𝘛𝘰𝘬𝘦𝘯",
-            "value": "eyJjb3Vyc2VJZCI6IjQ1NjY4NyIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo0ODA2MTksImNhdGVnb3J5SWQiOm51bGx9r",
+            "value": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTQ3NjE5OTU1LCJvcmdJZCI6NzI1MDI2LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTkwNTc3OTk4NjciLCJuYW1lIjoiUm9oaXQiLCJlbWFpbCI6bnVsbCwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJ6YWh6ZW8iLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiMDEzZWNmMDAzNDcxNDBkMzhiZGQwZTA3ZjA3MzU1MmMiLCJpYXQiOjE3NTE5NDA2NjgsImV4cCI6MTc1MjU0NTQ2OH0.7cdEKYjYCC5EeRsE_2vjQp60FvCquUnv95d2Gh2yaGtJls03n0LndFVLdXK6mE2o",
             "required": true
         },
         "OWNER_ID": {
-            "description": "7958597957",
+            "description": "6414266397",
             "required": true
         },
         "SUDO_USERS": {
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
-            "value": "7958597957",
+            "value": "6414266397",
             "required": true
         }
     },
